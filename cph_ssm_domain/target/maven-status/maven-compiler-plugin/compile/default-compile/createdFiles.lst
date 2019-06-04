@@ -1,0 +1,8 @@
+cph\domain\Orders.class
+cph\domain\Role.class
+cph\domain\UserInfo.class
+cph\domain\Member.class
+cph\domain\SysLog.class
+cph\domain\Product.class
+cph\domain\Permission.class
+cph\domain\Traveller.class

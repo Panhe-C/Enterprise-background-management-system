@@ -1,0 +1,12 @@
+cph\service\impl\UserServiceImpl.class
+cph\service\impl\SysLogServiceImpl.class
+cph\service\impl\RoleServiceImpl.class
+cph\service\IPermissionService.class
+cph\service\IProductService.class
+cph\service\IRoleService.class
+cph\service\impl\OrdersServiceImpl.class
+cph\service\IUsersService.class
+cph\service\IOrderService.class
+cph\service\ISysLogService.class
+cph\service\impl\ProductServiceImpl.class
+cph\service\impl\PermissionServiceImpl.class
